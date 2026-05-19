@@ -1,4 +1,4 @@
-# Link CLI
+u# Link CLI
 
 Link CLI lets agents get secure, one-time-use payment credentials from a Link wallet to complete purchases on your behalf — without storing your real card details.
 
